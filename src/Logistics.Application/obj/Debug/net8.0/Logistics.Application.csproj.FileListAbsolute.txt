@@ -1,0 +1,16 @@
+D:\Devlopment\Clean Architecture\LogisticsManagementSystem\src\Logistics.Application\bin\Debug\net8.0\Logistics.Application.deps.json
+D:\Devlopment\Clean Architecture\LogisticsManagementSystem\src\Logistics.Application\bin\Debug\net8.0\Logistics.Application.dll
+D:\Devlopment\Clean Architecture\LogisticsManagementSystem\src\Logistics.Application\bin\Debug\net8.0\Logistics.Application.pdb
+D:\Devlopment\Clean Architecture\LogisticsManagementSystem\src\Logistics.Application\bin\Debug\net8.0\Logistics.Domain.dll
+D:\Devlopment\Clean Architecture\LogisticsManagementSystem\src\Logistics.Application\bin\Debug\net8.0\Logistics.Domain.pdb
+D:\Devlopment\Clean Architecture\LogisticsManagementSystem\src\Logistics.Application\obj\Debug\net8.0\Logistics.Application.csproj.AssemblyReference.cache
+D:\Devlopment\Clean Architecture\LogisticsManagementSystem\src\Logistics.Application\obj\Debug\net8.0\Logistics.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devlopment\Clean Architecture\LogisticsManagementSystem\src\Logistics.Application\obj\Debug\net8.0\Logistics.Application.AssemblyInfoInputs.cache
+D:\Devlopment\Clean Architecture\LogisticsManagementSystem\src\Logistics.Application\obj\Debug\net8.0\Logistics.Application.AssemblyInfo.cs
+D:\Devlopment\Clean Architecture\LogisticsManagementSystem\src\Logistics.Application\obj\Debug\net8.0\Logistics.Application.csproj.CoreCompileInputs.cache
+D:\Devlopment\Clean Architecture\LogisticsManagementSystem\src\Logistics.Application\obj\Debug\net8.0\Logistics.Application.sourcelink.json
+D:\Devlopment\Clean Architecture\LogisticsManagementSystem\src\Logistics.Application\obj\Debug\net8.0\Logistic.475C1419.Up2Date
+D:\Devlopment\Clean Architecture\LogisticsManagementSystem\src\Logistics.Application\obj\Debug\net8.0\Logistics.Application.dll
+D:\Devlopment\Clean Architecture\LogisticsManagementSystem\src\Logistics.Application\obj\Debug\net8.0\refint\Logistics.Application.dll
+D:\Devlopment\Clean Architecture\LogisticsManagementSystem\src\Logistics.Application\obj\Debug\net8.0\Logistics.Application.pdb
+D:\Devlopment\Clean Architecture\LogisticsManagementSystem\src\Logistics.Application\obj\Debug\net8.0\ref\Logistics.Application.dll
